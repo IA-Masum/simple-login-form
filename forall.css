@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.perfect-center-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 650px;
+}
+
+.br-10{
+  border-radius: 10px;
+}
+
+.mpy10{
+  margin: 10px 0;
+  padding: 10px 0;
+}
+
+.p10{
+  padding: 10px;
+}
+
+.btn{
+  border: none;
+  background-color: #32ff7e;
+  color: black;
+  font-size: 25px;
+}
+.btn:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
